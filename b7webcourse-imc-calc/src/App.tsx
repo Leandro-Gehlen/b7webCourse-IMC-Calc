@@ -1,6 +1,7 @@
 import { useState } from "react";
 import styles from "./App.module.css";
 import poweredImg from "./assets/powered.png";
+import { levels, calcImc } from "./helpers/imc";
 
 const App = () => {
 
