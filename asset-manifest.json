@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/b7webCourse-IMC-Calc/static/css/main.0e0acc8b.css",
+    "main.js": "/b7webCourse-IMC-Calc/static/js/main.5dd94421.js",
+    "static/js/787.8497dca1.chunk.js": "/b7webCourse-IMC-Calc/static/js/787.8497dca1.chunk.js",
+    "static/media/powered.png": "/b7webCourse-IMC-Calc/static/media/powered.31688c4f015d2f42e203.png",
+    "index.html": "/b7webCourse-IMC-Calc/index.html",
+    "main.0e0acc8b.css.map": "/b7webCourse-IMC-Calc/static/css/main.0e0acc8b.css.map",
+    "main.5dd94421.js.map": "/b7webCourse-IMC-Calc/static/js/main.5dd94421.js.map",
+    "787.8497dca1.chunk.js.map": "/b7webCourse-IMC-Calc/static/js/787.8497dca1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0acc8b.css",
+    "static/js/main.5dd94421.js"
+  ]
+}
