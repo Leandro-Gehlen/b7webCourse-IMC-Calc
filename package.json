@@ -1,4 +1,5 @@
 {
+  "homepage": "http://leandro-gehlen.github.io/b7webCourse-IMC-Calc",
   "name": "b7webcourse-imc-calc",
   "version": "0.1.0",
   "private": true,
@@ -42,5 +43,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://leandro-gehlen.github.io/b7webCourse-IMC-Calc"
+  "devDependencies": {
+    "@types/gh-pages": "^3.2.1",
+    "gh-pages": "^4.0.0"
+  }
 }
